@@ -7,7 +7,7 @@ const GlobalStyle = createGlobalStyle`
   box-sizing: border-box;
 }
 body {
-  background:#242424;
+  background:#1a1a1a;
   font-family: 'Inter', sans-serif;
 }
 button {
@@ -44,7 +44,7 @@ p{
   }
   h4{
     font-weight:bold;
-    
+    font-size: 2rem;
 
   }
   span{
